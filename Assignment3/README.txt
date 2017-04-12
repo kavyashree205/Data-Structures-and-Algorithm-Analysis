@@ -1,3 +1,5 @@
+Implementation of HeapSort
+
 CS 5343.501 - Assignment 3
 ---------------------------
 
