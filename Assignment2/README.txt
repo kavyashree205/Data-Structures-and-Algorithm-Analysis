@@ -1,3 +1,7 @@
+1. Deletion of a node from Binary Search Tree and 
+2. Bubble Sort
+
+
 CS 5343.501 - Assignment 2
 ---------------------------
 
