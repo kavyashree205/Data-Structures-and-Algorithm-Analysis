@@ -1,0 +1,33 @@
+CS 5343.501 - Assignment 1
+---------------------------
+
+README
+------
+
+The src folder in the eclipse project has three .java files:
+1. Node.java
+2. Part1.java	(Part1:Selection sort of a linked list)
+3. Part2.java	(Part2:Recursive Binary Search of an array)
+
+Instructions for compiling and executing:
+-----------------------------------------
+
+The project folder can be imported directly in Eclipse IDE and executed 
+
+OR
+
+In a command prompt(after navigating to the folder containing the .java files), type the commands 
+
+Assignment Part1
+> javac Part1.java   (compilation; .class files would be generated)
+> java Part1		(execution)
+
+Assignment Part2
+> javac Part2.java
+> java Part2
+
+
+PS : The screenshot of compilation and execution has been attached
+
+
+
