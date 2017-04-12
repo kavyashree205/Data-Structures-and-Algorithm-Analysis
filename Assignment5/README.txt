@@ -1,3 +1,5 @@
+Implementation of Prims algorithm to find Minimum Spanning Tree
+
 CS 5343.501 - Assignment 5
 ---------------------------
 
